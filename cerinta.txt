@@ -1,0 +1,14 @@
+Exercitiul 1.  Panda
+Faceti un  proiect python care incarca csv ul dat cu jucatori de baschet NBA
+
+Arata mi toti jucatorii a caror nume contine un substring citit de la tastatura(substring ul e citit dupa ce s a ales 1)
+Arata mi  toti jucatorii de la o echipa, nume / pozitie/ salariu
+Arata mi toti jucatorii care vin de la un anumit colegiu citit de la tastatura
+Arata mi toti jucatorii care nu au mers la colegiu si completati Nan cu High School/ Abroad
+Sorteaza mi jucatorii dupa salariu (de la cel mai mare la cel mai mic)
+Converteste coloana Number sa nu mai fie float ci int (un nr pe tricoul unui sportiv nu poate fi cu virgula)
+Creaza 2 coloane noi HeightM, WeightKg care convertesc valorile de la Height  si Weight din feet si pounds in metri si kilograme
+Sterge coloane vechi de Height si Weight
+Arata-ti un grafic care afiseaza salariile jucatorilor in functie de varsta(puteti sa cautati alta metoda decat cea de la curs)
+
+Scrieti tot intr-un nou excel.
